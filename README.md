@@ -1,2 +1,2 @@
 # opalaba
-![осознание](https://tenor.com/bFWqE.gif)
+![осознание]("https://tenor.com/view/%D0%BF%D0%B0%D0%BF%D0%B8%D1%87-%D0%BF%D0%B0%D0%BF%D0%B8%D0%B7%D0%B8-papich-%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B0%D0%B9%D1%88%D0%B8%D0%B9-%D1%83%D0%B4%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-gif-22350038")
